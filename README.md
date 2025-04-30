@@ -27,7 +27,7 @@ A simple, secure, and offline password manager built using pure C++. It allows u
 
 ## 🛠️ How to Run
 
-### 1. Clone or download the repository
+Clone or download the repository
 ```bash
 git clone https://github.com/yourusername/PasswordManager.git
 cd PasswordManager
