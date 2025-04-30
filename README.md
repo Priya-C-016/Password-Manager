@@ -2,7 +2,7 @@
 
 A simple, secure, and offline password manager built using pure C++. It allows users to store, view, search, and delete their credentials (website, username, and password) in a local encrypted file using a basic Caesar cipher.
 
----
+
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ A simple, secure, and offline password manager built using pure C++. It allows u
 - Save and load encrypted credentials to/from a local file
 - Uses basic Caesar cipher encryption for simple data protection
 
----
+
 
 ## 🧠 Concepts Used
 
@@ -23,7 +23,7 @@ A simple, secure, and offline password manager built using pure C++. It allows u
 - STL (`vector`, `string`, `fstream`, etc.)
 - Menu-driven console interface
 
----
+
 
 ## 🛠️ How to Run
 
